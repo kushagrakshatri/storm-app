@@ -7,6 +7,13 @@ A storm event application that manages storm event data and uses it to answer qu
 
 - Storm event and Fatalities data csv files ranging between the years 1950-2019
 
+### Installation
+
+```
+cd ./storm-app
+Makefile
+```
+
 
 # Usage
 ## For loading the storm and fatalities data
